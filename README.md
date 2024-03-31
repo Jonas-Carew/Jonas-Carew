@@ -1,6 +1,7 @@
 ### About Me
 
 I love programming, aglorithmic thinking, abstract math, computer engineering, and learning in general!
+
 I enjoy videogames and skateboarding around, as well as learning niche hobbies
 
 Currently pursuing 3 degrees in Math, Computer Science, and Electrical and Computer Engineering at Oregon State University
