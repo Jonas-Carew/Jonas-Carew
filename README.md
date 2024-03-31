@@ -1,4 +1,9 @@
-### Hi there 👋
+### About Me
+
+I love programming, aglorithmic thinking, abstract math, computer engineering, and learning in general!
+I enjoy videogames and skateboarding around, as well as learning niche hobbies
+
+Currently pursuing 3 degrees in Math, Computer Science, and Electrical and Computer Engineering at Oregon State University
 
 <!--
 **Jonas-Carew/Jonas-Carew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
